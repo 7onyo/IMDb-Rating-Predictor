@@ -11,7 +11,7 @@ import joblib
 
 
 print("Loading data")
-df = pd.read_csv('imdb_top_1000.xls')
+df = pd.read_csv('./data/imdb_top_1000.xls')
 
 
 print("Cleaning data")
@@ -64,5 +64,5 @@ print(f"Model trained successfully (MAE: {mae:.2f})")
 
 
 print("Saving model")
-joblib.dump(pipeline, 'movie_rating_model.pkl')
-print("Saved as 'movie_rating_model.pkl'")
+joblib.dump(pipeline, './data/movie_rating_model.pkl')
+print("Saved as './data/movie_rating_model.pkl'")

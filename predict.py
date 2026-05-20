@@ -43,13 +43,13 @@ def print_summary_report(results_df):
 def audit_all_test_data():
     print("Loading model")
     try:
-        pipeline = joblib.load('movie_rating_model.pkl')
+        pipeline = joblib.load('./data/movie_rating_model.pkl')
     except FileNotFoundError:
-        print("Error: Could not find 'movie_rating_model.pkl'. Run train.py first")
+        print("Error: Could not find './data/movie_rating_model.pkl'. Run train.py first")
         return
 
     print("Loading + Cleaning Test Dataset")
-    df = pd.read_csv('imdb_top_1000.xls')
+    df = pd.read_csv('./data/imdb_top_1000.xls')
 
     df['Gross'] = df['Gross'].astype(str).str.replace(',', '')
     df['Gross'] = pd.to_numeric(df['Gross'], errors='coerce') 
@@ -91,7 +91,7 @@ def audit_all_test_data():
 
     results_df = pd.DataFrame(results_data)
 
-    output_filename = 'prediction_results.csv'
+    output_filename = './data/prediction_results.csv'
     results_df.to_csv(output_filename, index=False)
     print(f"\nFull prediction results saved to '{output_filename}'")
 
