@@ -65,6 +65,91 @@ def decision_factors_chart(features_df, folder_name):
     plt.close()
     print(" Saved: 3_top_decision_factors.png")
 
+
+
+# CHART 4: Error vs. Runtime (Regression Plot)
+def regression_plot(predictions_df, folder_name):
+    plt.figure(figsize=(8, 6))
+    sns.regplot(
+        data=predictions_df, 
+        x='Runtime (min)', 
+        y='Difference', 
+        scatter_kws={'alpha':0.5, 'color':'#e67e22'}, 
+        line_kws={'color':'red', 'linewidth':2}
+    )
+    plt.title('4. Blind Spot Check: Error vs. Movie Length', fontsize=13, fontweight='bold')
+    plt.xlabel('Runtime (Minutes)')
+    plt.ylabel('Absolute Error (Distance from Reality)')
+    plt.savefig(os.path.join(folder_name, "4_error_vs_runtime.png"), dpi=300, bbox_inches='tight')
+    plt.close()
+    print(" Saved: 4_error_vs_runtime.png")
+
+
+
+# NEW CHART 5: Accuracy Tiers Distribution (Pie Chart)
+def pie_chart(predictions_df, folder_name):
+   
+    plt.figure(figsize=(8, 8))
+    
+    # Bucket data into bands (Removed emojis from names)
+    def categorise_diff(d):
+        if d <= 0.1: return 'Bullseye (<= 0.1)'
+        elif d <= 0.3: return 'Close (0.11 - 0.3)'
+        elif d <= 0.5: return 'Acceptable (0.31 - 0.5)'
+        else: return 'Missed (> 0.5)'
+    
+    predictions_df['Accuracy Class'] = predictions_df['Difference'].apply(categorise_diff)
+    pie_data = predictions_df['Accuracy Class'].value_counts()
+    
+    # Map consistent high-contrast colors (Updated keys to match text-only labels)
+    color_map = {
+        'Bullseye (<= 0.1)': '#2ecc71',
+        'Close (0.11 - 0.3)': '#3498db',
+        'Acceptable (0.31 - 0.5)': '#f1c40f',
+        'Missed (> 0.5)': '#e74c3c'
+    }
+    plot_colors = [color_map[idx] for idx in pie_data.index]
+
+    plt.pie(
+        pie_data, 
+        labels=pie_data.index, 
+        autopct='%1.1f%%', 
+        startangle=140, 
+        colors=plot_colors,
+        textprops={'fontsize': 11, 'weight': 'bold'}
+    )
+    plt.title('5. Precision Breakdown: Percentage of Target Hits', fontsize=13, fontweight='bold')
+    plt.savefig(os.path.join(folder_name, "5_accuracy_pie_chart.png"), dpi=300, bbox_inches='tight')
+    plt.close()
+    print(" Saved: 5_accuracy_pie_chart.png")
+
+
+
+# NEW CHART 6: Feature Correlation Matrix (Heatmap)
+def heatmap(predictions_df, folder_name):
+
+    plt.figure(figsize=(10, 8))
+    
+    # Isolate relevant purely numeric variables to map underlying patterns
+    numeric_cols = ['Actual Rating', 'AI Guess', 'Difference', 'Runtime (min)', 'Critic Score', 'Total Votes', 'Box Office Gross']
+    correlation_matrix = predictions_df[numeric_cols].corr()
+
+    sns.heatmap(
+        correlation_matrix, 
+        annot=True, 
+        cmap='coolwarm', 
+        fmt=".2f", 
+        linewidths=0.5,
+        vmin=-1, vmax=1
+    )
+    plt.title('6. Structural Correlation Matrix: Feature Interactions', fontsize=13, fontweight='bold')
+    plt.xticks(rotation=45, ha='right')
+    plt.savefig(os.path.join(folder_name, "6_correlation_heatmap.png"), dpi=300, bbox_inches='tight')
+    plt.close()
+    print(" Saved: 6_correlation_heatmap.png")
+
+
+
 def main():
     print("Loading data from CSV files")
     
@@ -87,6 +172,9 @@ def main():
     scatter_plot(predictions_df, folder_name)
     histogram(predictions_df, folder_name)
     decision_factors_chart(features_df, folder_name)
+    regression_plot(predictions_df, folder_name)
+    pie_chart(predictions_df, folder_name)
+    heatmap(predictions_df, folder_name)
 
     print(f"\nDONE")
 
