@@ -1,6 +1,10 @@
 import pandas as pd
 import joblib
 from sklearn.model_selection import train_test_split
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def export_feature_importance(pipeline):
     """Extracts what the AI cares about most and saves it to a file."""
@@ -96,7 +100,7 @@ def audit_all_test_data():
     director_counts = df['Director'].value_counts()
     df['Director'] = df['Director'].apply(lambda x: 'Other' if director_counts.get(x, 0) < 3 else x)
 
-    _, test_df = train_test_split(df, test_size=0.2, random_state=42)
+    _, test_df = train_test_split(df, test_size=0.2, random_state=int(os.getenv('RANDOM_STATE')))
 
     features = ['Director', 'Genre', 'Gross', 'No_of_Votes', 'Meta_score', 'Runtime']
     X_test = test_df[features]

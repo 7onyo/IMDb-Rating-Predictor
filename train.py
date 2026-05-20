@@ -8,6 +8,10 @@ from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 import joblib
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def load_data():
@@ -40,7 +44,7 @@ def define_features_and_target(df):
     X = df[features]
     y = df['IMDB_Rating']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=int(os.getenv('RANDOM_STATE')))
     return X_train, X_test, y_train, y_test
 
 
@@ -56,7 +60,7 @@ def build_pipeline(X_train, y_train):
 
     pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
-        ('regressor', RandomForestRegressor(n_estimators=200, max_depth=10, random_state=42))
+        ('regressor', RandomForestRegressor(n_estimators=200, max_depth=10, random_state=int(os.getenv('RANDOM_STATE'))))
     ])
 
     return pipeline
