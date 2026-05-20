@@ -1,6 +1,44 @@
+from numpy import diff
 import pandas as pd
 import joblib
 from sklearn.model_selection import train_test_split
+
+def print_summary_report(results_df):
+    """Generates a detailed statistical breakdown of the AI's performance."""
+    print()
+    print("AI PREDICTION SUMMARY REPORT")
+    print()
+
+    total = len(results_df)
+    mae = results_df['Difference'].mean()
+
+
+    bullseye = len(results_df[results_df['Difference'] <= 0.1])
+    close = len(results_df[(results_df['Difference'] > 0.1) & (results_df['Difference'] <= 0.3)])
+    fair = len(results_df[(results_df['Difference'] > 0.3) & (results_df['Difference'] <= 0.5)])
+    missed = len(results_df[results_df['Difference'] > 0.5])
+
+
+    worst_idx = results_df['Difference'].idxmax()
+    worst_movie = results_df.loc[worst_idx]
+
+
+    avg_actual = results_df['Actual'].mean()
+    avg_guess = results_df['Guess'].mean()
+
+    print(f"Total Movies Audited: {total}")
+    print(f"Overall Error Margin (MAE): {mae:.2f} points off\n")
+
+    print("--- ACCURACY BREAKDOWN ---")
+    print(f"Bullseye (Off by 0.0 to 0.10):    {bullseye:<3} movies ({bullseye/total*100:.1f}%)")
+    print(f"Very Close (Off by 0.11 to 0.30): {close:<3} movies ({close/total*100:.1f}%)")
+    print(f"Acceptable (Off by 0.31 to 0.50): {fair:<3} movies ({fair/total*100:.1f}%)")
+    print(f"Way Off    (Off by over 0.50):    {missed:<3} movies ({missed/total*100:.1f}%)\n")
+
+    print("--- INTERESTING STATS ---")
+    print(f"The Biggest Miss: '{worst_movie['Title']}'")
+    print(f"    Actual: {worst_movie['Actual']} | AI Guessed: {worst_movie['Guess']} | Off by: {worst_movie['Difference']}")
+    print(f"Average Actual Rating: {avg_actual:.2f} | Average AI Guess: {avg_guess:.2f}")
 
 def audit_all_test_data():
     print("Loading model")
@@ -39,20 +77,22 @@ def audit_all_test_data():
 
     predictions = pipeline.predict(X_test)
 
-    differences = []
+    results_data = []
     for i in range(len(test_df)):
-        title = str(titles.iloc[i])[:42] 
-        actual = y_test.iloc[i]
-        guess = round(predictions[i], 2)
+        title_full = str(titles.iloc[i])
+        title_short = title_full[:42] 
+        actual = float(y_test.iloc[i])
+        guess = round(float(predictions[i]), 2)
         diff = round(abs(actual - guess), 2)
-        differences.append(diff)
         
-        print(f"{title:<45} |  {actual:<4} |  {guess:<6} |  {diff}")
+        results_data.append({'Title': title_full, 'Actual': actual, 'Guess': guess, 'Difference': diff})
 
-    print()
-    avg_diff = sum(differences) / len(differences)
-    print(f"Total Movies Audited: {len(test_df)}")
-    print(f"Average Error Margin (MAE): {avg_diff:.2f} points off")
+        print(f"{title_short:<45} |  {actual:<4} |  {guess:<6} |  {diff}")
+
+    results_df = pd.DataFrame(results_data)
+    print_summary_report(results_df)
+
+
 
 
 if __name__ == "__main__":
