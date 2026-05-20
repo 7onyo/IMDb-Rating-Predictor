@@ -1,0 +1,290 @@
+Feature,Importance
+No_of_Votes,0.4895363630149962
+Meta_score,0.1597683724566841
+Gross,0.1066275007660679
+Runtime,0.08851009879887549
+Genre_Drama,0.007374560113240393
+Director_Charles Chaplin,0.006366286186313876
+"Genre_Drama, War",0.005942837186994416
+Director_Billy Wilder,0.005580417816279496
+Director_Other,0.005134236489808391
+Director_Sergio Leone,0.004595377932727863
+"Genre_Drama, Family, Sport",0.003681797470921254
+Director_Frank Capra,0.0036569310730300624
+"Genre_Biography, Drama, History",0.003610330279572096
+"Genre_Animation, Adventure, Family",0.0031308405466871146
+"Genre_Comedy, Crime, Drama",0.003072931843201609
+"Genre_Crime, Drama",0.002806487185967538
+"Genre_Animation, Adventure, Comedy",0.0027403578275857886
+"Genre_Drama, Family, Fantasy",0.002652493912728726
+"Genre_Animation, Drama, War",0.002617506661131194
+"Genre_Comedy, Drama, Thriller",0.0024457389605218064
+Director_Sidney Lumet,0.002214280249710087
+"Genre_Crime, Drama, Thriller",0.0021748120987252475
+Director_Akira Kurosawa,0.002110308371595135
+"Genre_Drama, Family",0.002098131233772481
+"Genre_Action, Adventure, Drama",0.0020418183439604638
+"Genre_Drama, Western",0.0020350841875415473
+"Genre_Crime, Drama, Mystery",0.001979082843194237
+"Genre_Action, Crime, Drama",0.0019426651789246085
+"Genre_Animation, Drama, Fantasy",0.0018906867880239943
+"Genre_Biography, Comedy, Drama",0.001872758761345657
+Genre_Western,0.001743340632338042
+"Genre_Drama, Romance",0.0017414124516099334
+"Genre_Drama, Thriller, War",0.0017060954218682863
+Director_Alfred Hitchcock,0.0014645261997920358
+"Genre_Comedy, Drama, Romance",0.0014598744644305011
+"Genre_Comedy, Drama",0.0013921522500885952
+Genre_Comedy,0.0013401436311888495
+"Genre_Drama, Music, Musical",0.0013351888201149408
+"Genre_Action, Adventure, Sci-Fi",0.0013098081474616726
+Director_Steven Spielberg,0.0012963169138935121
+"Genre_Animation, Action, Adventure",0.0012412532000995794
+Director_Stanley Kubrick,0.0012067542809531856
+"Genre_Drama, Fantasy, Horror",0.0011874184517720598
+"Genre_Drama, Fantasy, Music",0.0011514220361879427
+Director_Sam Mendes,0.001092188216774156
+"Genre_Adventure, Drama",0.0010682190153563024
+Director_Isao Takahata,0.0010597822075025273
+Director_Rajkumar Hirani,0.001025180676321552
+Director_James Cameron,0.001024313713266645
+Director_Francis Ford Coppola,0.0009737841226035221
+"Genre_Biography, Crime, Drama",0.0009702183787153736
+Director_Tom McCarthy,0.0009171924236185377
+Director_Bong Joon Ho,0.0009146531332197175
+Director_Giuseppe Tornatore,0.0009110766451530227
+"Genre_Drama, Music",0.0009045743124526135
+"Genre_Action, Adventure, Crime",0.0008445226364159814
+Director_Ingmar Bergman,0.0008188617237609796
+"Genre_Drama, Sport",0.0008081774735638423
+"Genre_Biography, Drama",0.0008007112191163437
+"Genre_Animation, Adventure, Drama",0.0007679659339218115
+"Genre_Action, Drama, War",0.0007580545355567011
+Director_Martin Scorsese,0.0007383691381470174
+"Genre_Drama, Thriller",0.0007085057570145089
+Director_Richard Linklater,0.0007031380980856801
+"Genre_Drama, Mystery, War",0.000702582427285628
+"Genre_Horror, Mystery, Sci-Fi",0.0006942766438583876
+"Genre_Adventure, Biography, Drama",0.0006689489900541996
+Director_Andrey Zvyagintsev,0.0006396737994895772
+"Genre_Action, Drama, Mystery",0.0006182966860985181
+Director_Quentin Tarantino,0.0006065769264014492
+"Genre_Action, Sci-Fi",0.0006035889680601639
+"Genre_Comedy, War",0.0005935801076308055
+"Genre_Action, Drama",0.0005817843581608406
+"Genre_Action, Adventure, Fantasy",0.0005665637855729651
+Director_Alfonso Cuarón,0.0005587267667040534
+"Genre_Action, Biography, Drama",0.0005382397326411229
+Director_Ron Howard,0.0005234264100654435
+Director_Joel Coen,0.0005210414427924148
+"Genre_Action, Drama, Sport",0.0005086375050990939
+"Genre_Crime, Thriller",0.0004978688208953076
+Director_Robert Zemeckis,0.0004790714828001744
+"Genre_Comedy, Romance",0.0004692540016545474
+Director_Chan-wook Park,0.0004601669471145807
+Director_Terrence Malick,0.00043254247156152974
+Director_Mel Gibson,0.00042520587657222036
+Director_Clint Eastwood,0.00042209077232639784
+Director_David Fincher,0.00038965693966649956
+"Genre_Crime, Drama, Romance",0.0003833365432742687
+Director_Spike Jonze,0.0003757767919334007
+Director_Franklin J. Schaffner,0.00036317254572746846
+"Genre_Action, Adventure, Comedy",0.0003552622720082536
+Director_Guy Ritchie,0.00034997153564087874
+Director_Luis Buñuel,0.0003489757520206401
+Director_Emir Kusturica,0.00034836075897971537
+"Genre_Drama, Family, Musical",0.0003341223918164854
+"Genre_Comedy, Crime, Sport",0.00032437118558964695
+"Genre_Adventure, Comedy, Sci-Fi",0.00032369601710861373
+"Genre_Action, Adventure",0.0003081582430407558
+"Genre_Biography, Drama, Sport",0.0002980226387431243
+"Genre_Action, Drama, History",0.0002935688802796396
+Director_Alan Parker,0.00028416291570159015
+"Genre_Biography, Drama, Music",0.000281263257225791
+"Genre_Comedy, Drama, Family",0.00027080987329841845
+"Genre_Horror, Sci-Fi",0.0002706265682871513
+"Genre_Crime, Mystery, Thriller",0.0002400803103088091
+"Genre_Comedy, Crime, Romance",0.0002395734908823802
+"Genre_Drama, Horror, Thriller",0.00023885064690648485
+"Genre_Mystery, Thriller",0.00023007726310619425
+Director_Matthew Vaughn,0.00022886306199427052
+"Genre_Adventure, Drama, Thriller",0.0002251464423700619
+"Genre_Drama, Sci-Fi, Thriller",0.00022135906133166882
+"Genre_Adventure, Family, Fantasy",0.00022031955150730027
+Director_Neeraj Pandey,0.000212848003140525
+Director_Rob Reiner,0.00021226090182074482
+"Genre_Horror, Mystery, Thriller",0.00021210692324217636
+Director_James Mangold,0.0002119030847853232
+"Genre_Drama, Horror, Mystery",0.00020574580520548282
+"Genre_Action, Comedy, Crime",0.0001974750685436757
+"Genre_Animation, Action, Sci-Fi",0.00019610484926362704
+"Genre_Drama, War, Western",0.00018968714774840852
+Director_Bryan Singer,0.00018549318624679238
+Director_John Huston,0.00018285075791892166
+"Genre_Action, Adventure, War",0.0001803873114744047
+"Genre_Crime, Drama, Fantasy",0.0001796468776005564
+Director_Christopher Nolan,0.00017902647253316108
+Director_Edgar Wright,0.00017362541524038294
+Director_Denis Villeneuve,0.0001728538134211968
+"Genre_Comedy, Drama, War",0.00016553273026224873
+Director_Pete Docter,0.00016512171869592944
+Director_Ridley Scott,0.00016433102618844755
+Director_Alejandro G. Iñárritu,0.00016358174553731102
+"Genre_Animation, Drama, Family",0.0001558104568853141
+"Genre_Film-Noir, Mystery",0.0001557273056869143
+"Genre_Drama, Film-Noir",0.00015558884612984204
+"Genre_Action, Crime, Thriller",0.00015507978526223048
+"Genre_Action, Drama, Western",0.00015305324725657033
+"Genre_Drama, Fantasy, History",0.00015038363953974855
+Director_Wes Anderson,0.00014863409752518902
+"Genre_Action, Drama, Sci-Fi",0.00014858248770413307
+"Genre_Drama, Music, Romance",0.00014827083095635116
+"Genre_Drama, Film-Noir, Romance",0.0001477281294998501
+Director_Stanley Kramer,0.00014605707857603798
+"Genre_Drama, Mystery, Sci-Fi",0.00014444306234976358
+"Genre_Comedy, Music, Musical",0.00014441989421312354
+Director_Woody Allen,0.00014345744225204764
+"Genre_Biography, Drama, Thriller",0.00014245291683120663
+Director_David Lean,0.00014071697746398363
+Director_John Ford,0.00014009780361474956
+Director_Paul Thomas Anderson,0.00013892456730090372
+Director_Peter Jackson,0.0001351100763397233
+"Genre_Animation, Action, Crime",0.000133845456605271
+"Genre_Adventure, Comedy, Fantasy",0.00013247569276721418
+Director_Alejandro Amenábar,0.0001323845575103501
+"Genre_Action, Crime, Mystery",0.00013177101733856725
+Director_Kar-Wai Wong,0.00012888177640474105
+Director_Lars von Trier,0.00012714101951125876
+"Genre_Drama, Mystery, Romance",0.00012663807848778096
+Director_Brian De Palma,0.00012608140539032632
+"Genre_Comedy, Drama, Fantasy",0.0001237786090536438
+"Genre_Drama, Mystery",0.00011816215900855831
+"Genre_Animation, Family, Fantasy",0.00011802086856422854
+Director_Asghar Farhadi,0.00011467334565166005
+Director_Ang Lee,0.00011153914529396572
+"Genre_Adventure, Comedy, Drama",0.00010713140897309087
+"Genre_Drama, Mystery, Thriller",0.00010699051463315057
+"Genre_Drama, Romance, War",0.00010661872765656768
+"Genre_Crime, Drama, Musical",0.0001053248438230683
+Genre_Horror,0.00010398633582491359
+"Genre_Adventure, Drama, Sci-Fi",0.00010299443077296245
+"Genre_Action, Adventure, Thriller",9.679665858717534e-05
+Director_Brad Bird,9.543184062780519e-05
+Director_David Lynch,9.439546138715376e-05
+"Genre_Action, Comedy, Romance",9.430037715742426e-05
+"Genre_Action, Drama, Thriller",9.368023800980509e-05
+Director_Roman Polanski,9.126977907699207e-05
+"Genre_Adventure, Drama, Fantasy",8.809627610093391e-05
+Director_Terry Gilliam,8.73819764790124e-05
+"Genre_Adventure, Fantasy",8.534544780185235e-05
+"Genre_Crime, Drama, Film-Noir",8.503692594709401e-05
+"Genre_Adventure, Drama, War",8.408717294085703e-05
+"Genre_Drama, History, War",8.301271413589927e-05
+Director_Tim Burton,8.268396060385503e-05
+"Genre_Adventure, Drama, History",8.205996980650258e-05
+"Genre_Drama, Sci-Fi",7.827151823222938e-05
+Director_Michael Mann,7.651191051306584e-05
+Director_Elia Kazan,7.649941440887218e-05
+"Genre_Adventure, Sci-Fi",7.549591855142021e-05
+Director_Michael Haneke,7.545528433556547e-05
+"Genre_Drama, Fantasy, Romance",7.491712843085992e-05
+Director_Satoshi Kon,6.726403402241624e-05
+"Genre_Comedy, Fantasy, Romance",6.537838892618809e-05
+"Genre_Comedy, Horror",6.521758722397029e-05
+"Genre_Action, Mystery, Thriller",6.258737299563216e-05
+"Genre_Drama, Romance, Sci-Fi",6.140579118574092e-05
+Director_Howard Hawks,5.749245751186387e-05
+"Genre_Animation, Drama, Romance",5.715059556846897e-05
+Director_David Yates,5.6309074489692774e-05
+Director_Hayao Miyazaki,5.602521314740934e-05
+"Genre_Drama, Horror",5.371228975013662e-05
+"Genre_Action, Adventure, Family",5.358630746743728e-05
+"Genre_Adventure, Comedy, War",5.2788638765744586e-05
+"Genre_Drama, Fantasy, War",5.1439249528556434e-05
+Director_Jim Jarmusch,4.9964701184043016e-05
+Director_Paul Greengrass,4.7802434581496414e-05
+Director_Andrei Tarkovsky,4.739842531405763e-05
+Director_Danny Boyle,4.7114648284135816e-05
+"Genre_Animation, Comedy, Drama",4.69984216921291e-05
+"Genre_Comedy, Music, Romance",4.559124355675409e-05
+"Genre_Comedy, Crime, Mystery",4.5053077857366866e-05
+"Genre_Drama, Fantasy, Mystery",4.3716017290328985e-05
+Director_Fred Zinnemann,4.319814424175183e-05
+"Genre_Animation, Adventure, Fantasy",4.138943521228989e-05
+"Genre_Action, Biography, Crime",4.100252576822709e-05
+Director_William Wyler,3.87378154623104e-05
+Director_Taika Waititi,3.770453802109193e-05
+"Genre_Biography, Drama, Family",3.7445221423303776e-05
+Director_Krzysztof Kieslowski,3.6676694775800916e-05
+"Genre_Drama, History, Mystery",3.6489303795785073e-05
+"Genre_Drama, History",3.609128202640595e-05
+"Genre_Action, Thriller",3.6087084012647644e-05
+"Genre_Comedy, Drama, Musical",3.566959196095626e-05
+"Genre_Adventure, Mystery, Thriller",3.3435233161127044e-05
+"Genre_Animation, Action, Drama",3.323693765460232e-05
+"Genre_Family, Fantasy, Musical",3.318322426668348e-05
+"Genre_Adventure, Drama, Romance",3.207171830892199e-05
+"Genre_Drama, History, Thriller",3.19809705996497e-05
+"Genre_Mystery, Sci-Fi, Thriller",3.1655114855600685e-05
+"Genre_Action, Comedy, Fantasy",2.8662419654154293e-05
+"Genre_Adventure, Thriller",2.7879727481582084e-05
+"Genre_Mystery, Romance, Thriller",2.7605418279952566e-05
+"Genre_Adventure, Drama, Western",2.63829717189746e-05
+Director_Darren Aronofsky,2.582706887124829e-05
+"Genre_Comedy, Crime",2.5248657052136308e-05
+"Genre_Action, Adventure, Horror",2.496333622222505e-05
+Director_J.J. Abrams,2.4309765812480843e-05
+Director_John McTiernan,2.3705230796964288e-05
+"Genre_Action, Sci-Fi, Thriller",2.2636676913306927e-05
+"Genre_Action, Comedy, Mystery",2.0103677401511333e-05
+"Genre_Family, Sci-Fi",1.9085911775654158e-05
+"Genre_Comedy, Drama, Music",1.6868559771241707e-05
+"Genre_Comedy, Family",1.5970227993420626e-05
+Director_Edward Zwick,1.3277837232240123e-05
+"Genre_Animation, Biography, Drama",1.2578397413549562e-05
+Director_Federico Fellini,1.24572347842569e-05
+"Genre_Adventure, Horror, Sci-Fi",1.2271261058711501e-05
+"Genre_Fantasy, Horror",1.2241728545947602e-05
+"Genre_Crime, Film-Noir, Mystery",1.0226232542630891e-05
+"Genre_Comedy, Music",9.425641556787373e-06
+"Genre_Crime, Drama, History",8.577756578024556e-06
+"Genre_Crime, Drama, Sci-Fi",7.248945035331777e-06
+"Genre_Comedy, Crime, Thriller",7.02051193472175e-06
+Director_Thomas Vinterberg,5.818902965987634e-06
+Director_Norman Jewison,5.334036317270742e-06
+"Genre_Animation, Comedy, Crime",5.219677424726811e-06
+"Genre_Film-Noir, Thriller",4.003685700861292e-06
+Director_Spike Lee,3.629181284368563e-06
+Director_Jim Sheridan,3.4482876110991915e-06
+"Genre_Drama, Horror, Sci-Fi",3.2975221927548256e-06
+"Genre_Adventure, Comedy, Family",3.2260719480021504e-06
+Director_Ron Clements,2.946463808541181e-06
+"Genre_Animation, Biography, Crime",2.745380908811901e-06
+"Genre_Comedy, Family, Fantasy",2.516091654921128e-06
+"Genre_Action, Adventure, Romance",2.4998339330980393e-06
+"Genre_Action, Adventure, History",2.0698930848031462e-06
+Genre_Thriller,2.0619410046171277e-06
+"Genre_Biography, Drama, Romance",1.378095397267023e-06
+"Genre_Animation, Crime, Mystery",1.1120102476809208e-06
+"Genre_Animation, Comedy, Fantasy",9.273640757995966e-07
+"Genre_Action, Crime, Comedy",8.393890978660687e-07
+"Genre_Comedy, Western",7.948834935461825e-07
+"Genre_Drama, Film-Noir, Mystery",6.290840076924717e-07
+"Genre_Horror, Thriller",5.646467762010658e-07
+Director_Don Siegel,0.0
+"Genre_Action, Adventure, Biography",0.0
+Director_Pedro Almodóvar,0.0
+"Genre_Drama, Romance, Thriller",0.0
+"Genre_Drama, Thriller, Western",0.0
+"Genre_Adventure, Comedy, Film-Noir",0.0
+"Genre_Animation, Sci-Fi",0.0
+"Genre_Adventure, Comedy, Crime",0.0
+"Genre_Animation, Action, Fantasy",0.0
+"Genre_Comedy, Family, Romance",0.0
+Director_John Hughes,0.0
+"Genre_Comedy, Mystery, Romance",0.0
+"Genre_Crime, Drama, Horror",0.0
+"Genre_Comedy, Musical, War",0.0
+Director_James Whale,0.0
+"Genre_Crime, Film-Noir, Thriller",0.0
+"Genre_Drama, History, Music",0.0

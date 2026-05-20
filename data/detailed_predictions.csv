@@ -1,0 +1,201 @@
+Title,Actual Rating,AI Guess,Difference,Director,Genre,Runtime (min),Critic Score,Total Votes,Box Office Gross
+Trois couleurs: Bleu,7.9,7.84,0.06,Krzysztof Kieslowski,"Drama, Music, Mystery",94,85.0,89836,1324974.0
+Captain America: The Winter Soldier,7.7,7.98,0.28,Anthony Russo,"Action, Adventure, Sci-Fi",136,70.0,736182,259766572.0
+Wreck-It Ralph,7.7,7.8,0.1,Other,"Animation, Adventure, Comedy",101,72.0,380195,189422889.0
+The Sandlot,7.8,7.73,0.07,Other,"Comedy, Drama, Family",101,55.0,78963,32416586.0
+Gandhi,8.0,8.1,0.1,Other,"Biography, Drama, History",191,79.0,217664,52767889.0
+Evil Dead II,7.8,7.76,0.04,Other,"Action, Comedy, Fantasy",84,72.0,148359,5923044.0
+Little Miss Sunshine,7.8,7.87,0.07,Other,"Comedy, Drama",101,80.0,439856,59891098.0
+Children of Men,7.9,7.89,0.01,Alfonso Cuarón,"Adventure, Drama, Sci-Fi",109,84.0,465113,35552383.0
+Repulsion,7.7,7.82,0.12,Roman Polanski,"Drama, Horror, Thriller",105,91.0,48883,23530892.0
+Drishyam,8.2,8.1,0.1,Other,"Crime, Drama, Mystery",163,79.0,70367,739478.0
+Primal Fear,7.7,7.71,0.01,Other,"Crime, Drama, Mystery",129,47.0,189716,56116183.0
+Anand,8.4,7.93,0.47,Other,"Drama, Musical",122,79.0,30273,23530892.0
+Ondskan,7.8,7.78,0.02,Other,Drama,113,61.0,35682,15280.0
+Home Alone,7.6,7.74,0.14,Other,"Comedy, Family",103,63.0,488817,285761243.0
+21 Grams,7.6,7.74,0.14,Alejandro G. Iñárritu,"Crime, Drama, Thriller",124,70.0,224545,16290476.0
+El cuerpo,7.6,7.93,0.33,Other,"Mystery, Thriller",112,79.0,57549,23530892.0
+Network,8.1,7.92,0.18,Sidney Lumet,Drama,121,83.0,144911,23530892.0
+Gifted,7.6,7.75,0.15,Other,Drama,101,60.0,99643,24801212.0
+Toki o kakeru shôjo,7.7,7.92,0.22,Other,"Animation, Adventure, Comedy",98,79.0,60368,23530892.0
+Sunrise: A Song of Two Humans,8.1,7.93,0.17,Other,"Drama, Romance",94,79.0,46865,539540.0
+Spartacus,7.9,8.02,0.12,Stanley Kubrick,"Adventure, Biography, Drama",197,87.0,124339,30000000.0
+Stalker,8.2,8.11,0.09,Andrei Tarkovsky,"Drama, Sci-Fi",162,79.0,116945,234723.0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,7.85,0.15,Other,"Drama, Romance",103,85.0,77520,2380788.0
+The Untouchables,7.9,7.91,0.01,Brian De Palma,"Crime, Drama, Thriller",119,79.0,281842,76270454.0
+Gone Girl,8.1,8.1,0.0,David Fincher,"Drama, Mystery, Thriller",149,79.0,859695,167767189.0
+Hotel Rwanda,8.1,8.01,0.09,Other,"Biography, Drama, History",121,79.0,334320,23530892.0
+Toy Story,8.3,8.12,0.18,Other,"Animation, Adventure, Comedy",81,95.0,887429,191796233.0
+Watership Down,7.6,7.75,0.15,Other,"Animation, Adventure, Drama",91,64.0,33656,23530892.0
+Kari-gurashi no Arietti,7.6,7.9,0.3,Other,"Animation, Adventure, Family",94,80.0,80939,19202743.0
+Harry Potter and the Sorcerer's Stone,7.6,7.96,0.36,Other,"Adventure, Family, Fantasy",152,64.0,658185,317575550.0
+The King's Speech,8.0,7.94,0.06,Other,"Biography, Drama, History",118,88.0,639603,138797449.0
+Bhaag Milkha Bhaag,8.2,8.05,0.15,Other,"Biography, Drama, Sport",186,79.0,61137,1626289.0
+Drive,7.8,7.94,0.14,Other,"Crime, Drama",100,78.0,571571,35061555.0
+Fantastic Mr. Fox,7.9,7.89,0.01,Wes Anderson,"Animation, Adventure, Comedy",87,83.0,199696,21002919.0
+Vozvrashchenie,8.0,7.8,0.2,Andrey Zvyagintsev,Drama,110,82.0,42399,502028.0
+Contratiempo,8.1,8.01,0.09,Other,"Crime, Drama, Mystery",106,79.0,141516,23530892.0
+The King of Comedy,7.8,7.8,0.0,Martin Scorsese,"Comedy, Crime, Drama",109,73.0,88511,2500000.0
+The Hateful Eight,7.8,8.06,0.26,Quentin Tarantino,"Crime, Drama, Mystery",168,68.0,517059,54117416.0
+End of Watch,7.6,7.7,0.1,Other,"Action, Crime, Drama",109,68.0,228132,41003371.0
+Avengers: Endgame,8.4,7.98,0.42,Anthony Russo,"Action, Adventure, Drama",181,78.0,809955,858373000.0
+Lion,8.0,7.73,0.27,Other,"Biography, Drama",118,69.0,213970,51739495.0
+Snatch,8.3,8.34,0.04,Guy Ritchie,"Comedy, Crime",104,55.0,782001,30328156.0
+Rebecca,8.1,7.91,0.19,Alfred Hitchcock,"Drama, Mystery, Romance",130,86.0,123942,4360000.0
+The Godfather: Part III,7.6,7.83,0.23,Francis Ford Coppola,"Crime, Drama",162,60.0,359809,66666062.0
+Les quatre cents coups,8.1,7.93,0.17,Other,"Crime, Drama",99,79.0,105291,23530892.0
+Life of Brian,8.1,7.85,0.25,Other,Comedy,94,77.0,367250,20045115.0
+Huo Yuan Jia,7.6,7.74,0.14,Other,"Action, Biography, Drama",104,70.0,72863,24633730.0
+Kokuhaku,7.8,7.89,0.09,Other,"Drama, Thriller",106,79.0,35713,23530892.0
+Cat on a Hot Tin Roof,8.0,7.81,0.19,Other,Drama,108,84.0,45062,17570324.0
+Zelig,7.7,7.9,0.2,Woody Allen,Comedy,79,79.0,39881,11798616.0
+Raazi,7.8,7.99,0.19,Other,"Action, Drama, Thriller",138,79.0,25344,23530892.0
+Once Upon a Time... in Hollywood,7.6,7.96,0.36,Quentin Tarantino,"Comedy, Drama",161,83.0,551309,142502728.0
+Chung Hing sam lam,8.1,7.89,0.21,Kar-Wai Wong,"Comedy, Crime, Drama",102,77.0,63122,600200.0
+Kubo and the Two Strings,7.8,7.82,0.02,Other,"Animation, Action, Adventure",101,84.0,118035,48023088.0
+Sen to Chihiro no kamikakushi,8.6,8.33,0.27,Hayao Miyazaki,"Animation, Adventure, Family",125,96.0,651376,10055859.0
+Seppuku,8.6,7.89,0.71,Other,"Action, Drama, Mystery",133,85.0,42004,23530892.0
+Once,7.8,7.83,0.03,Other,"Drama, Music, Romance",86,88.0,110656,9439923.0
+The Lord of the Rings: The Fellowship of the Ring,8.8,8.86,0.06,Peter Jackson,"Action, Adventure, Drama",178,92.0,1661481,315544750.0
+Zindagi Na Milegi Dobara,8.1,8.05,0.05,Other,"Comedy, Drama",155,79.0,67927,3108485.0
+Malcolm X,7.7,7.97,0.27,Spike Lee,"Biography, Drama, History",202,73.0,85819,48169908.0
+Ivanovo detstvo,8.1,7.96,0.14,Andrei Tarkovsky,"Drama, War",95,79.0,31728,23530892.0
+Ayla: The Daughter of War,8.4,7.95,0.45,Other,"Biography, Drama, History",125,79.0,34112,23530892.0
+Patton,7.9,7.97,0.07,Franklin J. Schaffner,"Biography, Drama, War",172,91.0,93741,61700000.0
+The Grand Budapest Hotel,8.1,8.23,0.13,Wes Anderson,"Adventure, Comedy, Crime",99,88.0,707630,59100318.0
+Captain Phillips,7.8,7.86,0.06,Paul Greengrass,"Adventure, Biography, Crime",134,82.0,421244,107100855.0
+The Man Who Would Be King,7.8,7.89,0.09,John Huston,"Adventure, History, War",129,91.0,44917,23530892.0
+Naked,7.8,7.85,0.05,Other,"Comedy, Drama",132,84.0,34635,1769305.0
+Les yeux sans visage,7.7,7.87,0.17,Other,"Drama, Horror",90,90.0,27620,52709.0
+Mononoke-hime,8.4,8.01,0.39,Hayao Miyazaki,"Animation, Action, Adventure",134,76.0,343171,2375308.0
+The Wild Bunch,7.9,7.95,0.05,Other,"Action, Adventure, Western",145,97.0,77401,12064472.0
+Amadeus,8.3,8.16,0.14,Other,"Biography, Drama, History",160,88.0,369007,51973029.0
+Star Trek,7.9,7.88,0.02,J.J. Abrams,"Action, Adventure, Sci-Fi",127,82.0,577336,257730019.0
+The Lunchbox,7.8,7.82,0.02,Other,"Drama, Romance",104,76.0,50523,4231500.0
+Le Petit Prince,7.7,7.77,0.07,Other,"Animation, Adventure, Drama",108,70.0,56720,1339152.0
+El ángel exterminador,8.1,7.92,0.18,Luis Buñuel,"Drama, Fantasy",95,79.0,29682,23530892.0
+Persona,8.1,7.85,0.25,Ingmar Bergman,"Drama, Thriller",85,86.0,103191,23530892.0
+Titanic,7.8,8.06,0.26,James Cameron,"Drama, Romance",194,75.0,1046089,659325379.0
+Gladiator,8.5,8.36,0.14,Ridley Scott,"Action, Adventure, Drama",155,67.0,1341460,187705427.0
+La grande bellezza,7.8,7.91,0.11,Other,Drama,141,86.0,81125,2852400.0
+Ace in the Hole,8.1,7.75,0.35,Billy Wilder,"Drama, Film-Noir",111,72.0,31568,3969893.0
+Ferris Bueller's Day Off,7.8,7.72,0.08,John Hughes,Comedy,103,61.0,321382,70136369.0
+WALL·E,8.4,8.2,0.2,Other,"Animation, Adventure, Family",98,95.0,999790,223808164.0
+Blade Runner,8.1,8.38,0.28,Ridley Scott,"Action, Sci-Fi, Thriller",117,84.0,693827,32868943.0
+The Lives of Others,8.4,8.0,0.4,Other,"Drama, Mystery, Thriller",137,89.0,358685,11286112.0
+The Circus,8.1,7.94,0.16,Charles Chaplin,"Comedy, Romance",72,90.0,30205,23530892.0
+The Manchurian Candidate,7.9,7.92,0.02,Other,"Drama, Thriller",126,94.0,71122,23530892.0
+Lifeboat,7.6,7.93,0.33,Alfred Hitchcock,"Drama, War",97,78.0,26471,23530892.0
+The Lady Vanishes,7.8,7.98,0.18,Alfred Hitchcock,"Mystery, Thriller",96,98.0,47400,23530892.0
+Argo,7.7,7.89,0.19,Other,"Biography, Drama, Thriller",120,86.0,572581,136025503.0
+La La Land,8.0,7.94,0.06,Other,"Comedy, Drama, Music",128,94.0,505918,151101803.0
+Donnie Darko,8.0,8.4,0.4,Other,"Drama, Mystery, Sci-Fi",113,88.0,740086,1480006.0
+Out of the Past,8.0,7.92,0.08,Other,"Crime, Drama, Film-Noir",97,79.0,32784,23530892.0
+Jûbê ninpûchô,7.9,7.93,0.03,Other,"Animation, Action, Adventure",94,79.0,34529,23530892.0
+Spotlight,8.1,7.99,0.11,Tom McCarthy,"Biography, Crime, Drama",129,93.0,420316,45055776.0
+In America,7.7,7.83,0.13,Jim Sheridan,Drama,105,76.0,40403,15539266.0
+Rio Bravo,8.0,7.9,0.1,Howard Hawks,"Action, Drama, Western",141,93.0,56305,12535000.0
+Ex Machina,7.7,7.93,0.23,Other,"Drama, Sci-Fi, Thriller",108,78.0,474141,25442958.0
+Jagten,8.3,7.97,0.33,Thomas Vinterberg,Drama,115,77.0,281623,687185.0
+The Dark Knight Rises,8.4,8.54,0.14,Christopher Nolan,"Action, Adventure",164,78.0,1516346,448139099.0
+Barton Fink,7.7,7.77,0.07,Joel Coen,"Comedy, Drama, Thriller",116,69.0,113240,6153939.0
+Bride of Frankenstein,7.8,7.87,0.07,James Whale,"Drama, Horror, Sci-Fi",75,95.0,43542,4360000.0
+Yip Man,8.0,7.76,0.24,Other,"Action, Biography, Drama",106,59.0,211427,23530892.0
+Un long dimanche de fiançailles,7.6,7.88,0.28,Other,"Drama, Mystery, Romance",133,76.0,70925,6167817.0
+Underground,8.1,8.12,0.02,Emir Kusturica,"Comedy, Drama, War",170,79.0,55220,171082.0
+Walk the Line,7.8,7.73,0.07,James Mangold,"Biography, Drama, Music",136,72.0,234207,119519402.0
+Remember the Titans,7.8,7.72,0.08,Other,"Biography, Drama, Sport",113,48.0,198089,115654751.0
+East of Eden,7.9,7.77,0.13,Elia Kazan,Drama,118,72.0,40313,23530892.0
+Dark City,7.6,7.76,0.16,Other,"Mystery, Sci-Fi, Thriller",100,66.0,187927,14378331.0
+Indiana Jones and the Last Crusade,8.2,8.05,0.15,Steven Spielberg,"Action, Adventure",127,65.0,692366,197171806.0
+Seven Pounds,7.6,7.72,0.12,Other,Drama,123,36.0,286770,69951824.0
+Hannah and Her Sisters,7.9,7.81,0.09,Woody Allen,"Comedy, Drama",107,90.0,67176,40084041.0
+Glengarry Glen Ross,7.7,7.82,0.12,Other,"Crime, Drama, Mystery",100,82.0,95826,10725228.0
+Escape from Alcatraz,7.6,7.72,0.12,Don Siegel,"Action, Biography, Crime",112,76.0,121731,43000000.0
+Clerks,7.7,7.76,0.06,Other,Comedy,92,70.0,211450,3151130.0
+Andhadhun,8.3,8.03,0.27,Other,"Crime, Drama, Music",139,79.0,71875,1373943.0
+8½,8.0,7.97,0.03,Federico Fellini,Drama,138,91.0,108844,50690.0
+Smultronstället,8.2,7.86,0.34,Ingmar Bergman,"Drama, Romance",91,88.0,96381,23530892.0
+"Planes, Trains & Automobiles",7.6,7.71,0.11,John Hughes,"Comedy, Drama",93,72.0,124773,49530280.0
+All That Jazz,7.9,7.71,0.19,Other,"Drama, Music, Musical",123,72.0,28223,37823676.0
+Sanjuro,8.1,7.96,0.14,Akira Kurosawa,"Action, Comedy, Crime",96,79.0,33044,23530892.0
+Moana,7.6,7.8,0.2,Ron Clements,"Animation, Adventure, Comedy",107,81.0,272784,248757044.0
+Rosemary's Baby,8.0,8.06,0.06,Roman Polanski,"Drama, Horror",137,96.0,193674,23530892.0
+Stagecoach,7.8,7.83,0.03,John Ford,"Adventure, Drama, Western",96,93.0,43621,23530892.0
+Trois couleurs: Rouge,8.1,8.01,0.09,Krzysztof Kieslowski,"Drama, Mystery, Romance",99,100.0,90729,4043686.0
+Before Sunset,8.1,7.96,0.14,Richard Linklater,"Drama, Romance",80,90.0,236311,5820649.0
+Notorious,7.9,8.0,0.1,Alfred Hitchcock,"Drama, Film-Noir, Romance",102,100.0,92306,10464000.0
+Captain America: Civil War,7.8,8.02,0.22,Anthony Russo,"Action, Adventure, Sci-Fi",147,75.0,663649,408084349.0
+Stalag 17,8.0,7.95,0.05,Billy Wilder,"Comedy, Drama, War",120,84.0,51046,23530892.0
+Invasion of the Body Snatchers,7.7,7.82,0.12,Don Siegel,"Drama, Horror, Sci-Fi",80,92.0,44839,23530892.0
+Office Space,7.7,7.75,0.05,Other,Comedy,89,68.0,241575,10824921.0
+How to Train Your Dragon 2,7.8,7.73,0.07,Other,"Animation, Action, Adventure",102,76.0,305611,177002924.0
+Serpico,7.7,7.9,0.2,Sidney Lumet,"Biography, Crime, Drama",130,87.0,109941,29800000.0
+Dà hóng denglong gaogao guà,8.1,7.94,0.16,Other,"Drama, History, Romance",125,79.0,29662,2603061.0
+Breakfast at Tiffany's,7.6,7.79,0.19,Other,"Comedy, Drama, Romance",115,76.0,166544,23530892.0
+Brazil,7.9,7.98,0.08,Terry Gilliam,"Drama, Sci-Fi",132,84.0,187567,9929135.0
+Vikram Vedha,8.4,8.0,0.4,Other,"Action, Crime, Drama",147,79.0,28401,23530892.0
+Singin' in the Rain,8.3,8.26,0.04,Other,"Comedy, Musical, Romance",103,99.0,218957,8819028.0
+12 Years a Slave,8.1,8.23,0.13,Other,"Biography, Drama, History",134,96.0,640533,56671993.0
+The Green Mile,8.6,8.4,0.2,Other,"Crime, Drama, Fantasy",189,61.0,1147794,136801374.0
+Raiders of the Lost Ark,8.4,8.08,0.32,Steven Spielberg,"Action, Adventure",115,85.0,884112,248159971.0
+Terminator 2: Judgment Day,8.5,8.15,0.35,James Cameron,"Action, Sci-Fi",137,75.0,995506,204843350.0
+Lagaan: Once Upon a Time in India,8.1,8.03,0.07,Other,"Adventure, Drama, Musical",224,84.0,105036,70147.0
+God's Own Country,7.7,7.82,0.12,Other,"Drama, Romance",104,85.0,25198,335609.0
+Barry Lyndon,8.1,8.07,0.03,Stanley Kubrick,"Adventure, Drama, History",185,89.0,149843,23530892.0
+Sicario,7.6,7.86,0.26,Denis Villeneuve,"Action, Crime, Drama",121,82.0,371291,46889293.0
+Sherlock Holmes,7.6,7.82,0.22,Guy Ritchie,"Action, Adventure, Mystery",128,57.0,583158,209028679.0
+Shine,7.7,7.8,0.1,Other,"Biography, Drama, Music",105,87.0,51350,35811509.0
+Amores perros,8.1,8.1,0.0,Alejandro G. Iñárritu,"Drama, Thriller",154,83.0,223741,5383834.0
+Kurenai no buta,7.7,7.83,0.13,Hayao Miyazaki,"Animation, Adventure, Comedy",94,83.0,77798,23530892.0
+Das Cabinet des Dr. Caligari,8.1,7.93,0.17,Other,"Fantasy, Horror, Mystery",76,79.0,57428,23530892.0
+Waking Life,7.8,7.83,0.03,Richard Linklater,"Animation, Drama, Fantasy",99,83.0,60684,2892011.0
+Hauru no ugoku shiro,8.2,8.07,0.13,Hayao Miyazaki,"Animation, Adventure, Family",119,80.0,333915,4711096.0
+The Naked Gun: From the Files of Police Squad!,7.6,7.72,0.12,Other,"Comedy, Crime",85,76.0,152871,78756177.0
+The Sound of Music,8.0,7.94,0.06,Other,"Biography, Drama, Family",172,63.0,205425,163214286.0
+25th Hour,7.6,7.8,0.2,Spike Lee,Drama,135,68.0,169708,13060843.0
+Bronenosets Potemkin,8.0,7.97,0.03,Other,"Drama, History, Thriller",75,97.0,53054,50970.0
+The Third Man,8.1,8.13,0.03,Other,"Film-Noir, Mystery, Thriller",104,97.0,158731,449191.0
+Cabaret,7.8,7.83,0.03,Other,"Drama, Music, Musical",124,80.0,48334,42765000.0
+Avengers: Infinity War,8.4,8.0,0.4,Anthony Russo,"Action, Adventure, Sci-Fi",149,68.0,834477,678815482.0
+The Peanut Butter Falcon,7.6,7.75,0.15,Other,"Adventure, Comedy, Drama",97,70.0,66346,13122642.0
+Kaze tachinu,7.8,7.88,0.08,Hayao Miyazaki,"Animation, Biography, Drama",126,83.0,73690,5209580.0
+Zodiac,7.7,7.92,0.22,David Fincher,"Crime, Drama, Mystery",157,78.0,466080,33080084.0
+The Insider,7.8,8.04,0.24,Michael Mann,"Biography, Drama, Thriller",157,84.0,159886,28965197.0
+October Sky,7.8,7.73,0.07,Other,"Biography, Drama, Family",108,71.0,82855,32481825.0
+The Magnificent Seven,7.7,7.86,0.16,Other,"Action, Adventure, Western",128,74.0,87719,4905000.0
+La double vie de Véronique,7.8,7.82,0.02,Krzysztof Kieslowski,"Drama, Fantasy, Music",98,86.0,42376,1999955.0
+Inherit the Wind,8.1,7.8,0.3,Stanley Kramer,"Biography, Drama, History",128,75.0,27254,23530892.0
+Kramer vs. Kramer,7.8,7.75,0.05,Other,Drama,105,77.0,133351,106260000.0
+Gone with the Wind,8.1,7.97,0.13,Other,"Drama, History, Romance",238,97.0,290074,198676459.0
+The Red Shoes,8.1,7.99,0.11,Other,"Drama, Music, Romance",135,79.0,30935,10900000.0
+Blood Diamond,8.0,7.81,0.19,Edward Zwick,"Adventure, Drama, Thriller",143,64.0,499439,57366262.0
+X-Men: Days of Future Past,7.9,8.05,0.15,Bryan Singer,"Action, Adventure, Sci-Fi",132,75.0,659763,233921534.0
+Das Boot,8.3,8.06,0.24,Other,"Adventure, Drama, Thriller",149,86.0,231855,11487676.0
+The Long Goodbye,7.6,7.83,0.23,Other,"Comedy, Crime, Drama",112,87.0,26337,959000.0
+Moon,7.9,7.78,0.12,Other,"Drama, Mystery, Sci-Fi",97,67.0,335152,5009677.0
+Bin-jip,8.0,7.82,0.18,Other,"Crime, Drama, Romance",88,72.0,50610,238507.0
+Trainspotting,8.1,8.11,0.01,Danny Boyle,Drama,93,83.0,634716,16501785.0
+Before Sunrise,8.1,7.89,0.21,Richard Linklater,"Drama, Romance",101,77.0,272291,5535405.0
+Training Day,7.7,7.76,0.06,Other,"Crime, Drama, Thriller",122,69.0,390247,76631907.0
+Predator,7.8,7.74,0.06,John McTiernan,"Action, Adventure, Sci-Fi",107,45.0,371387,59735548.0
+In Bruges,7.9,7.85,0.05,Other,"Comedy, Crime, Drama",107,67.0,390334,7757130.0
+Misery,7.8,7.73,0.07,Rob Reiner,"Drama, Thriller",107,75.0,184740,61276872.0
+Big Fish,8.0,7.75,0.25,Tim Burton,"Adventure, Drama, Fantasy",125,58.0,415218,66257002.0
+Crimes and Misdemeanors,7.9,7.81,0.09,Woody Allen,"Comedy, Drama",104,77.0,54670,18254702.0
+Le locataire,7.7,7.83,0.13,Roman Polanski,"Drama, Thriller",126,71.0,39889,1924733.0
+Queen,8.2,8.06,0.14,Other,"Adventure, Comedy, Drama",146,79.0,60701,1429534.0
+Black Swan,8.0,8.12,0.12,Darren Aronofsky,"Drama, Thriller",108,79.0,699673,106954678.0
+Le scaphandre et le papillon,8.0,7.84,0.16,Other,"Biography, Drama",112,92.0,103284,5990075.0
+The Butterfly Effect,7.6,7.78,0.18,Other,"Drama, Sci-Fi, Thriller",113,30.0,451479,57938693.0
+X: First Class,7.7,8.04,0.34,Matthew Vaughn,"Action, Adventure, Sci-Fi",131,65.0,645512,146408305.0
+The Others,7.6,7.72,0.12,Alejandro Amenábar,"Horror, Mystery, Thriller",101,74.0,337651,96522687.0
+Spoorloos,7.7,7.93,0.23,Other,"Mystery, Thriller",107,79.0,33982,23530892.0
+Breaking the Waves,7.8,7.97,0.17,Lars von Trier,Drama,159,76.0,62428,4040691.0
+Ah-ga-ssi,8.1,7.92,0.18,Chan-wook Park,"Drama, Romance, Thriller",145,84.0,113649,2006788.0
+Inside Out,8.1,7.92,0.18,Pete Docter,"Animation, Adventure, Comedy",95,94.0,616228,356461711.0
+Au revoir les enfants,8.0,7.93,0.07,Other,"Drama, War",104,88.0,31163,4542825.0
+Kaguyahime no monogatari,8.0,7.9,0.1,Isao Takahata,"Animation, Adventure, Drama",137,89.0,38746,1506975.0
+OMG: Oh My God!,8.1,7.96,0.14,Other,"Comedy, Drama, Fantasy",125,79.0,51739,923221.0
+Druk,7.8,7.81,0.01,Thomas Vinterberg,"Comedy, Drama",117,81.0,33931,23530892.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,8.27,0.13,Stanley Kubrick,Comedy,95,97.0,450474,275902.0
