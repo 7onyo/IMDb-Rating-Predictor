@@ -90,10 +90,13 @@ def audit_all_test_data():
         print(f"{title_short:<45} |  {actual:<4} |  {guess:<6} |  {diff}")
 
     results_df = pd.DataFrame(results_data)
+
+    output_filename = 'prediction_results.csv'
+    results_df.to_csv(output_filename, index=False)
+    print(f"\nFull prediction results saved to '{output_filename}'")
+
+
     print_summary_report(results_df)
-
-
-
 
 if __name__ == "__main__":
     audit_all_test_data()
